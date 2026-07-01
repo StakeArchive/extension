@@ -1,0 +1,11 @@
+export const PAGE_MESSAGE_SOURCE = 'bet-tracker-inject'
+
+export const MSG = {
+  NEW_BET: 'NEW_BET',
+  QUERY_BETS: 'QUERY_BETS',
+  CLEAR_BETS: 'CLEAR_BETS',
+  STATS: 'STATS',
+  BET_BROADCAST: 'BET_BROADCAST',
+  HEARTBEAT: 'HEARTBEAT',
+  SHOW_WIDGET: 'SHOW_WIDGET',
+}
